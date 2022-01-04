@@ -47,7 +47,7 @@ const commands = {
 	links: 
 	{
 		cmd: 'links',
-		res: 'Links:<br># <span class="red"><a href="https://discord.gg/HkYGChRVr2" target="_blank"><u>Discord</u></a></span> My Discord server.<br># <span class="red"><a href="https://discord.com/users/650270560957497354" target="_blank"><u>My Discord account</u></a></span> - Where i get my kittens<br># <span class="red"><a href="https://steamcommunity.com/id/gobsmells/" target="_blank"><u>Steam</u></a></span> - You can find me there <span class="red">Offline</span> most of the time.<br># <span class="red"><u></u></a></span>'
+		res: 'Links:<br># <span class="red"><a href="https://discord.gg/QXvR9K7zzT" target="_blank"><u>Discord</u></a></span> My Discord server.<br># <span class="red"><a href="https://discord.com/users/650270560957497354" target="_blank"><u>My Discord account</u></a></span> - Where i get my kittens<br># <span class="red"><a href="https://steamcommunity.com/id/gobsmells/" target="_blank"><u>Steam</u></a></span> - You can find me there <span class="red">Offline</span> most of the time.<br># <span class="red"><u></u></a></span>'
 	},
 	visitors: 
 	{
